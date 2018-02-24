@@ -23,7 +23,7 @@ Aplicacion de ejemplo para presentar a Almundo. Solo probada en android.
 
 ## Running the tests
 
-````
+```
 $ yarn test
 ```
 
